@@ -1,6 +1,6 @@
 ![ASCII](./ascii.png)
 
-# The Founder Study
+# The Founder Studies
 
 Technical resources for startup founders and engineers.
 
