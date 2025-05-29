@@ -67,6 +67,8 @@ Technical resources for startup founders and engineers.
   - Paul Graham
 - Code: The Hidden Language of Computer Hardware and Software
   - Charles Petzold
+- The Art of Doing Science and Engineering: Learning to Learn
+  - Richard W. Hamming
 
 
 
@@ -127,3 +129,4 @@ Technical resources for startup founders and engineers.
 - The Art of Computer Programming
 - Hackers & Painters: Big Ideas from the Computer Age
 - Code: The Hidden Language of Computer Hardware and Software
+- The Art of Doing Science and Engineering: Learning to Learn
