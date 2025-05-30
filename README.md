@@ -19,7 +19,7 @@ Technical resources for startup founders and engineers.
 
 ### Phase 2
 
-- Computer Organization and Design
+- Computer Organization and Design: The Hardware/Software Interface
   - David A. Patterson, John L. Hennessy
 - Operating Systems: Three Easy Pieces
   - Remzi H. Arpaci-Dusseau
@@ -89,7 +89,7 @@ Technical resources for startup founders and engineers.
 #### Quarter 3
 
 - Computer Systems: A Programmer's Perspective
-- Computer Organization and Design
+- Computer Organization and Design: The Hardware/Software Interface
 
 #### Quarter 4
 
